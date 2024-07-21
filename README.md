@@ -24,7 +24,6 @@ python -m venv venv source venv/bin/activate  # On Windows use `venv\Scripts\act
 pip install pandas scikit-learn numpy
 ```
 
-<p>4. :</p>
 
   
   
