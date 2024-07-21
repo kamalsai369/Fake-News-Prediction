@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Fake Article Detection</h1>
+<h1 align="center" id="title">Fake News Prediction</h1>
 
 <p align="center"><img src="https://images.theconversation.com/files/284418/original/file-20190717-173334-1b9vdud.jpg?ixlib=rb-4.1.0&amp;rect=0%2C350%2C6490%2C3240&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" alt="project-image"></p>
 
